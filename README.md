@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.devzero.io%2Fblog%2Fbest-developer-productivity-in-2024&psig=AOvVaw0CBCjBbRhXbHqeSLLGJlH4&ust=1736467768631000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDn5das54oDFQAAAAAdAAAAABAE
+https://cdn.prod.website-files.com/659f77ad8e06050cc27ed531/65ef63f6bd30ab838939a4ae_Developer%20productivity%20tools%202024.webp
 
 <h1 align="center">Hi 👋, I'm Ömer Selim Durman</h1>
 <h3 align="center">A passionate Data Scienist and Mobile developer from Turkey</h3>
