@@ -1,4 +1,4 @@
-[[https://cdn.prod.website-files.com/659f77ad8e06050cc27ed531/65ef63f6bd30ab838939a4ae_Developer%20productivity%20tools%202024.webp](https://cdn.prod.website-files.com/659f77ad8e06050cc27ed531/65ef63f6bd30ab838939a4ae_Developer%20productivity%20tools%202024.webp)](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbE1oZ1VNc0N6ZG1ZQ2o2Wjh3T1NqWklGMkVmd3xBQ3Jtc0tuUUJMc2xySEQzaTZvOERjdFlaTHVCeU9fRFJ0Wl9kVkZxQm5LX3d4RFRFMUhBRkxDa2VVanRKNFE0Z0VHempDOUU0RVZBQWdBeXk4c1RMU1lHWEhyRkN5cHZnbVo0TUxQTmY3YXlxVFoydlVzak1fdw&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkerimcan-odaba%25C5%259F-016937215%2F&v=Xy1mu8NTjeQ)
+
 
 <h1 align="center">Hi 👋, I'm Ömer Selim Durman</h1>
 <h3 align="center">A passionate Data Scienist and Mobile developer from Turkey</h3>
